@@ -37,3 +37,10 @@ public:
 
     }
 };
+
+/*
+Learnings-
+How to check bit is set or not - (n & ( 1<<i ))
+2^i is equal to - (1<<i);
+*/
+
